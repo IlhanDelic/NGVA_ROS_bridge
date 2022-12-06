@@ -1,0 +1,35 @@
+[9.409s] Invoking command in '/home/ilhan/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/ilhan/ros2_ws/build/my_robot_controller/prefix_override:/home/ilhan/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/ilhan/ros2_ws/build/my_robot_controller/build install --record /home/ilhan/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[11.216s] running egg_info
+[11.217s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[11.218s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[11.218s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[11.219s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[11.219s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[11.220s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[11.220s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[11.230s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[11.232s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[11.232s] running build
+[11.232s] running build_py
+[11.233s] creating /home/ilhan/ros2_ws/build/my_robot_controller/build
+[11.233s] creating /home/ilhan/ros2_ws/build/my_robot_controller/build/lib
+[11.233s] creating /home/ilhan/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[11.233s] copying my_robot_controller/__init__.py -> /home/ilhan/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[11.234s] running install
+[11.247s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[11.248s]   warnings.warn(
+[11.248s] running install_lib
+[11.250s] creating /home/ilhan/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[11.251s] copying /home/ilhan/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/ilhan/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[11.252s] byte-compiling /home/ilhan/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[11.253s] running install_data
+[11.254s] creating /home/ilhan/ros2_ws/install/my_robot_controller/share/ament_index
+[11.255s] creating /home/ilhan/ros2_ws/install/my_robot_controller/share/ament_index/resource_index
+[11.255s] creating /home/ilhan/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[11.255s] copying resource/my_robot_controller -> /home/ilhan/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[11.256s] copying package.xml -> /home/ilhan/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[11.256s] running install_egg_info
+[11.263s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/ilhan/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[11.289s] running install_scripts
+[11.557s] writing list of installed files to '/home/ilhan/ros2_ws/build/my_robot_controller/install.log'
+[11.619s] Invoked command in '/home/ilhan/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/ilhan/ros2_ws/build/my_robot_controller/prefix_override:/home/ilhan/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/ilhan/ros2_ws/build/my_robot_controller/build install --record /home/ilhan/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
